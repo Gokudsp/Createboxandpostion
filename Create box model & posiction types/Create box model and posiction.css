@@ -1,0 +1,150 @@
+/* 
+top box create: */
+
+
+
+/* create box: */
+.box2_left{
+    border: 2px solid black;
+    position: absolute;
+	width: 50%;
+    height: 400px;
+    top: 210px;
+    right: 650px;
+	background-color: aqua;
+  
+}
+.box2_l1 {
+    position: absolute;
+	border: 1px solid black;
+	width: 40%;
+	height: 40%;
+    top: 20px;
+    left: 20px;
+	background-color: chocolate;
+}
+.box2_l2 {
+    position: absolute;
+	border: 1px solid black;
+	width: 40%;
+	height: 40%;
+    top: 200px;
+    left: 52%;
+	background-color: cadetblue;
+}
+.box2_r1 {
+	border: 1px solid black;
+    position: absolute;
+	width: 40%;
+	height: 40%;
+    top: 50%;
+    left: 20px;
+	background-color: cornsilk;
+}
+.box2_r2 {
+	border: 1px solid black;
+    position: absolute;
+	width: 40%;
+	height: 40%;
+    top: 26px;
+    left: 52%;
+	background-color: darkblue;
+}
+
+ /* only side box  :2 */
+
+ .box02_r1{
+    border: 2px solid black;
+    position: absolute;
+    height: 170px;
+    width: 43%;
+    top: 35%;
+    left: 700px;
+	background-color: burlywood;
+}
+
+ .box02_r2{
+    border: 2px solid black;
+    position: absolute;
+    height: 170px;
+    width: 100%;
+    top: 130%;
+    left: 5px;
+	background-color: cadetblue;
+} 
+
+ /* new create table box:3 */
+
+.box03_l{
+    border: 2px solid black;
+    position: relative;
+    height: 300px;
+    width: 115%;
+	margin-top: 80%;
+    left: -700px;
+	background-color: darkgoldenrod;
+}
+.box03_r{
+    border: 2px solid black;
+    position: relative;
+    height: 300px;
+    width: 102%;
+    left: -700;
+    top: -300px;
+    
+	background-color: dimgray;
+}
+
+/* create table:4 */
+
+.box04{
+    border: 2px solid black;
+    position: absolute;
+    height: 100%;
+    width: 225%;
+    margin-top: -180px;
+    padding: 1px;
+	margin-left: -700px;
+    
+	background-color:green
+}
+.box04_1 {
+	border: 1px solid black;
+    position: absolute;
+	width: 20%;
+	height: 20%;
+    margin-top: 50px;
+    margin-left: 40%;
+	background-color: navy;
+}
+.box04_2 {
+	border: 1px solid black;
+    position: absolute;
+	width: 20%;
+	height: 20%;
+    margin-top: 48px;
+    margin-left: 75%;
+	background-color: aquamarine;
+}
+.box04_3 {
+	border: 1px solid black;
+    position: absolute;
+	width: 20%;
+	height: 20%;
+    margin-top: 50px;
+    margin-left: 5%;
+	background-color: lightgreen;
+}
+.box04_B {
+	border: 1px solid black;
+    position: relative;
+	width: 95%;
+	height: 15%;
+    margin-top: 110px;
+    margin-left: 17px;
+    margin-bottom: -90px;
+	background-color: dimgray;
+}
+
+
+
